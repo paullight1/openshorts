@@ -1,0 +1,3 @@
+[submodule "integrations/gtavi-claudecode"]
+	path = integrations/gtavi-claudecode
+	url = https://github.com/Bodila51/gtavi-claudecode.git
